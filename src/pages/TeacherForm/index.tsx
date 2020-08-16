@@ -8,7 +8,7 @@ import Textarea from '../../components/Textarea';
 import warningIcon from '../../assets/images/icons/warning.svg';
 
 import './styles.css';
-import { kStringMaxLength } from 'buffer';
+// import { kStringMaxLength } from 'buffer';
 import api from '../../services/api';
 
 function TeacherForm() {
